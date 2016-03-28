@@ -1,6 +1,7 @@
 ---
 title: about
 date: 2016-03-11 14:25:16
+comments: false
 ---
 
 ## About my son
