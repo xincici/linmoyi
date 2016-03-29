@@ -9,12 +9,14 @@ comments: false
 ```javascript Info
 {
     "name" : "林墨一",
-    "age" : "7 months",
+    "nick" : "羊羊",
+    "gender" : "boy",
     "birth" : {
         "year" : 2015,
         "month" : 8,
         "day" : 18
     },
+    "age" : "7 months",
     "desc" : "A lovely little boy!"
 }
 ```
